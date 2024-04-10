@@ -4,7 +4,7 @@ git clone https://github.com/Jamal0044kerr/Rand_Game.git
 
 2-
 
-cd Rand_Game.git
+cd Rand_Game
 
 3-
 
